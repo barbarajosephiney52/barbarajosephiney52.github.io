@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /login
+Sitemap:https://barbarajosephiney52.github.ioTAF/sitemap_index.txt
+Sitemap:https://barbarajosephiney52.github.ioWDU/sitemap_index.txt
+Sitemap:https://barbarajosephiney52.github.ioRZB/sitemap_index.txt
